@@ -1,0 +1,11 @@
+{
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "printWidth": 90,
+  "semi": true,
+  "tabWidth": 4,
+  "svelteStrictMode": false,
+  "svelteBracketNewLine": true,
+  "svelteIndentScriptAndStyle": true,
+  "trailingComma": "none"
+}
